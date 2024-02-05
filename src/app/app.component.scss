@@ -1,0 +1,15 @@
+:host {
+  display: block;
+  font-size: 30px;
+  padding: 30px;
+
+  .bar {
+    text-align: center;
+
+    button {
+      padding: 20px;
+      margin: 15px;
+      font-size: 40px;
+    }
+  }
+}
